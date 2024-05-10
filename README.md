@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHlEK8NFLUMZQ/profile-displaybackgroundimage-shrink_350_1400/0/1710492547056?e=1720656000&v=beta&t=Qt1-ECZKtA2W9Ai4jvUW_3v8qk1ZaoS-dmx3WJMuCHA)](https://georgetaschina.com)
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">Passionate Software Engineer from Italy</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ0Ymt3NWp2MWlyMnVubWE0Y21vMHl1NXJ6b2FmdXFiMG1wN3ZxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
