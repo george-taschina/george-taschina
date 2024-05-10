@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">Passionate Software Engineer from Italy</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ0Ymt3NWp2MWlyMnVubWE0Y21vMHl1NXJ6b2FmdXFiMG1wN3ZxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ0Ymt3NWp2MWlyMnVubWE0Y21vMHl1NXJ6b2FmdXFiMG1wN3ZxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [georgetaschina.com](georgetaschina.com)
 
