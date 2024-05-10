@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/george_taschina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="george_taschina" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/george-taschina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george-taschina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/11768858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george-taschina" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/george-cosmin-taschina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="george-cosmin-taschina" height="30" width="40" /></a>
 <a href="https://instagram.com/georgee_littlepocket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgee_littlepocket" height="30" width="40" /></a>
 </p>
