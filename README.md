@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [georgetaschina.com](georgetaschina.com)
 
-- 💬 Ask me about **Node JS, Fastify and Laravel**
+- 💬 Ask me about **Node JS, NestJS, React and Vue**
 
 - 📫 How to reach me **g.taschina@georgetaschina.com**
 
