@@ -11,10 +11,17 @@ Previously: Facile.it, Wezard, Rivelo
 - Lead technical initiatives and mentor development teams
 
 ## Selected Work
-[List your best 2-3 projects with actual business impact]
+### 🚀 [ChefHub.it](https://chefhub.it) - Chef Marketplace Platform
+Full-stack SaaS marketplace connecting professional chefs with clients across Italy. Built with NestJS, Next.js, and PostgreSQL.
+
+### 📈 Sales Channel Backend - 30% Conversion Increase
+Architected high-performance e-commerce backend using NestJS microservices
+
+### ☁️ Zero-Downtime Cloud Migration
+Led infrastructure migration from AWS/Azure to GCP Kubernetes achieving 40% performance improvement with zero downtime.
 
 ## Technical Focus
-**Backend:** TypeScript, Node.js, NestJS, Fastify
+**Backend:** TypeScript, Node.js, NestJS
 **Cloud:** AWS (EC2, Lambda, RDS), GCP, Kubernetes
 **Data:** PostgreSQL, MongoDB, Redis
 **DevOps:** Docker, K8s, Jenkins, CI/CD
