@@ -12,7 +12,7 @@ Previously: Facile.it, Wezard, Rivelo
 
 ## Selected Work
 ### 🚀 [ChefHub.it](https://chefhub.it) - Chef Marketplace Platform
-Full-stack SaaS marketplace connecting professional chefs with clients across Italy. Built with NestJS, Next.js, and PostgreSQL.
+Full-stack SaaS marketplace connecting professional chefs with clients across Italy. Built with NestJS, Nuxt.js, and PostgreSQL.
 
 ### 📈 Sales Channel Backend - 30% Conversion Increase
 Architected high-performance e-commerce backend using NestJS microservices
